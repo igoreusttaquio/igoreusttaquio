@@ -1,4 +1,4 @@
 ### Hi there 👋
-#### I'm called Igor a Backend programmer. 😆
+#### I'm called Igor a Software Eng. 😆
 
-- 🔭 I’m currently working on freelancer web developer.
+- 🔭 I’m currently working on freelancer .NET developer.
